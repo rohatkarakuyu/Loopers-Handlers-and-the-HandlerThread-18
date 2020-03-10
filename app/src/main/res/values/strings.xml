@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Soo Greyhounds Mobile</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="photo_viewer">Photo Viewer</string>
+    <string name="photo_detail">Photo Detail</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="save_photo">Save Photo</string>
+    <string name="photo_person">Choose Person</string>
+    <string name="photo_details">%1$s! Check out this photo from the Soo Greyhounds app: %2$s.</string>
+    <string name="photo_details_subject">Soo Greyhounds Photo Link</string>
+    <string name="share_photo">Share Photo</string>
+    <string name="send_photo">Send Photo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
